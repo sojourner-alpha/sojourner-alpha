@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sojourner-alpha
-- 👀 I’m focused on researching energy, infrastructure and information through our think tank Sojourn Insight LLC 
-- 🌱 I’m currently learning and building on LLaMA 3.1, GPT 4o and Claude code generation, Notion databases and financial APIs
+- 👀 Focused on researching AI's applications on energy, infrastructure and information through our think tank Sojourn Insight. 
+- 🌱 Learning and building with LLaMA, GPT, Cursor and Claude. Using Notion databases and financial APIs.
 - 💭 We leverage first principles, technology and collective intelligence to develop and apply our critical systems thesis. 
 - 📫 Reach me at alpha@sojourninsight.com
-- 📖 Follow along daily, weekly and/or monthly through our substack at https://substack.com/@sojourninsight
+- 📖 Follow along daily, weekly and/or monthly through our substack at https://substack.com/@sojourninsight and @sojournfinance
 - ⚡ Fun fact: We are a two man team based in Minneapolis and Seoul and love economics, finance, reading, gaming and building 
 
 <!---
