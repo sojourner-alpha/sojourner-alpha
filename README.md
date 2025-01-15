@@ -1,4 +1,4 @@
-- 👋 @sojourner-alpha
+- 👋 hello, world. love, @sojourner-alpha
 - 👀 I see you  
 - 🌱 building and learning with Cursor + LLMs + databases + websites + web apps
 - 🎯 critical systems: energy, infrastructure and information 
