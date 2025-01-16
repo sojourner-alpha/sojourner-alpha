@@ -1,11 +1,11 @@
 
 - 👋 hello, world
-- 🖥️ PC desktop, Mac laptop, Ubuntu Pi build
+- 🖥️ desktop=pc; laptop=mac; pi=ubuntu 
 - ⚡ 1/2 of 2 man team based in Minneapolis and Seoul
-- 💭 driven by curiosity, first principles, technology and finance
+- 💭 driven by curiosity, first principles, and building
+- 🔬 researching implications of A.I. on operations and finance  
 - 🎯 focused on critical systems of energy, infrastructure and information 
-- 🌱 building and learning with Cursor + LLMs + databases + websites + web apps
-
+- 🌱 building with Cursor + LLMs + databases + websites + web apps
 - ❤️ love, @sojourner-alpha
 
 <!---
