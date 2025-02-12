@@ -2,7 +2,6 @@
 - 👋 hello, world
 - 🖥️ desktop=pc; laptop=mac; pi=ubuntu 
 - 💭 driven by curiosity, first principles, and building
-- ⚡ 1/2 of 2 man team based in Minneapolis and Seoul
 - 🔬 researching applications of A.I. on operations and finance  
 - 🎯 focused on critical systems of energy, infrastructure and information 
 - 🌱 building with Cursor + LLMs + databases + websites + web apps
