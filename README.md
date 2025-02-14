@@ -3,9 +3,8 @@
 - 🖥️ desktop=pc; laptop=mac; pi=ubuntu 
 - 💭 driven by curiosity, first principles, and building
 - 🔨 experience in engineering, negotiations, sales and management
-- 🔬 researching applications of A.I. on operations and finance  
-- 🎯 focused on critical systems of energy, infrastructure and information 
-- 🌱 building with Cursor + LLMs + databases + websites + web apps + open source
+- 🔬 researching impact of A.I. on finance and operations 
+- 🌱 vibe coding and building with Cursor + ML + open source
 - ❤️ love, @sojourner-alpha
 
 <!---
