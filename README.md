@@ -2,9 +2,9 @@
 - 👋 hello, world
 - 🖥️ desktop=pc; laptop=mac; pi=ubuntu 
 - 💭 driven by curiosity, first principles, and building
-- 🔨 experience in engineering, negotiations, sales and management
-- 🔬 researching impact of A.I. on finance and operations 
-- 🌱 vibe coding and building with Cursor + ML + open source
+- 🔨 experience in quantitative analysis, negotiations, sales 
+- 🔬 researching applications of A.I. on finance and operations 
+- 🌱 coding and building with Cursor + LLMs + open source
 - ❤️ love, @sojourner-alpha
 
 <!---
